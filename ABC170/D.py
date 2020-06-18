@@ -1,3 +1,4 @@
+# エラトステネスの篩を使う！O(nloglogn)
 N = int(input())
 A = list(map(int,input().split()))
 ans = 0
